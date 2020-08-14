@@ -1,0 +1,25 @@
+{
+  "name": "CSV_to_PDF-Html_Converter",
+  "version": "1.0.0",
+  "description": "Just Simple scripts that Convert CSV files to PDF and HTML using Node.js",
+  "main": "HtmlParser.js",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "html-pdf": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodrigoGaluppo/CSV_to_PDF-Html_Converter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RodrigoGaluppo/CSV_to_PDF-Html_Converter/issues"
+  },
+  "homepage": "https://github.com/RodrigoGaluppo/CSV_to_PDF-Html_Converter#readme"
+}
